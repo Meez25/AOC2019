@@ -1,0 +1,3 @@
+*.txt
+zig-out
+.zig*
